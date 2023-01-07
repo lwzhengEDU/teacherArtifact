@@ -1,0 +1,25 @@
+<annotation>
+  <folder>images</folder>
+  <filename>3e810d5c-30f6-4f4f-9047-c390332d2e54.png</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>300</height>
+    <width>400</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102.64216972878391</xmin>
+      <ymin>9.405074365704287</ymin>
+      <xmax>290.7436570428697</xmax>
+      <ymax>62.335958005249346</ymax>
+    </bndbox>
+  </object>
+</annotation>
